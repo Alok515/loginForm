@@ -9,7 +9,7 @@ function App() {
           <Form />
         </div>
         <div className="hidden lg:flex relative items-center justify-center w-1/2 bg-gray-200 h-full">
-          <div className="w-60 h-60 bg-gradient-to-br from-violet-500 to-pink-500 rounded-full animate-spin"/>
+          <div className="w-60 h-60 bg-gradient-to-br from-blue-900 to-green-400 rounded-full "></div>
           <div className="w-full h-1/2 absolute bottom-0 bg-white/10 backdrop-blur-lg" />
         </div>
       </div>
